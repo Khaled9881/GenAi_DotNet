@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextCompletion_Ollama", "Te
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Functions", "Functions\Functions.csproj", "{B287CA2C-F866-4CC8-A37A-C50821AC7DE6}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Section6_Vectors", "Section6_Vectors", "{85BDB24C-1634-48AD-9882-1D458062939D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vectors", "Vectors\Vectors.csproj", "{2074F352-76E9-4F19-BB71-C7351C8BF3F9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -29,6 +33,10 @@ Global
 		{B287CA2C-F866-4CC8-A37A-C50821AC7DE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B287CA2C-F866-4CC8-A37A-C50821AC7DE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B287CA2C-F866-4CC8-A37A-C50821AC7DE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2074F352-76E9-4F19-BB71-C7351C8BF3F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2074F352-76E9-4F19-BB71-C7351C8BF3F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2074F352-76E9-4F19-BB71-C7351C8BF3F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2074F352-76E9-4F19-BB71-C7351C8BF3F9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -37,6 +45,7 @@ Global
 		{0BD28F6C-F0A2-46F0-9D0E-9B98B054ADF0} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 		{F76D3D84-1CE1-48D9-88A8-8DB869D37C72} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 		{B287CA2C-F866-4CC8-A37A-C50821AC7DE6} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{2074F352-76E9-4F19-BB71-C7351C8BF3F9} = {85BDB24C-1634-48AD-9882-1D458062939D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1AC6D020-6EB6-41B6-8797-B7FD74EF6D2E}
